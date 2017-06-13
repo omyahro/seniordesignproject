@@ -4,18 +4,16 @@
     <meta charset="utf-8">
     <title>Royals
 <img
-src=
+src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi3xP6V07jUAhWJx4MKHaI-DFoQjRwIBw&url=http%3A%2F%2Fdegrassi.wikia.com%2Fwiki%2FFile%3AAbout-Me-Header.gif&psig=AFQjCNGcmwH3h_LtWJ-Uf9dB_cnirQBcbw&ust=1497368681187106">
     </title>
     <link rel="stylesheet" href="master.css">
   </head>
   <body>
     <div>
     <h1>hello world</h1>
-
     <p>Hey, my name is Omyah.</p>
 
     <h2>Hobbies</h2>
-
     <p>I am very versatile.</p>
     <a>href="https://www.w3schools.com/html/"
       target="_blank">
